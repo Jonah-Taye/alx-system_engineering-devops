@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -k 6n | head -n+2 | cut -f 1

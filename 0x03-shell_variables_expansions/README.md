@@ -1,2 +1,3 @@
-# 0x03. Shell, init files, variables and expansions
-These are bash scripts that are answers for the 0x03. Shell, init files, variables and expansions project
+# **System engineering & DevOps**
+  
+This is a repository containing bash scripts that are answers for the questions in the ALX projects
